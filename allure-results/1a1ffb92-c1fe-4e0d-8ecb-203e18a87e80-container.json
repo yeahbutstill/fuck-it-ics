@@ -1,0 +1,11 @@
+{
+  "uuid": "1a1ffb92-c1fe-4e0d-8ecb-203e18a87e80",
+  "name": "masterIndikator()",
+  "children": [
+    "b154e952-8362-4cca-981a-7264b4b6ee5f"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1674696024931,
+  "stop": 1674696044610
+}

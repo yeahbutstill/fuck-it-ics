@@ -1,1 +1,117 @@
-{"uuid":"c82b711d-e2f4-497c-9ea7-0416c8455b89","historyId":"c4f74716b1553aa2b793e3935148aebe","testCaseId":"[engine:junit-jupiter]/[class:com.example.selenideicsdemos.MainPageTest]/[method:login()]","testCaseName":"login()","fullName":"com.example.selenideicsdemos.MainPageTest.login","labels":[{"name":"junit.platform.uniqueid","value":"[engine:junit-jupiter]/[class:com.example.selenideicsdemos.MainPageTest]/[method:login()]"},{"name":"host","value":"yeahbutstill"},{"name":"thread","value":"12666@yeahbutstill.main(1)"},{"name":"framework","value":"junit-platform"},{"name":"language","value":"java"},{"name":"package","value":"com.example.selenideicsdemos.MainPageTest"},{"name":"testClass","value":"com.example.selenideicsdemos.MainPageTest"},{"name":"testMethod","value":"login"},{"name":"suite","value":"com.example.selenideicsdemos.MainPageTest"}],"links":[],"name":"login()","status":"passed","stage":"finished","description":"","steps":[{"name":"$(\"open\") https://ics.lps.go.id/#/login","status":"passed","stage":"finished","steps":[{"name":"$(\"webdriver\") create()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1674598460759,"stop":1674598465214}],"attachments":[],"parameters":[],"start":1674598460752,"stop":1674598472570},{"name":"$(\"input.mat-input-element\") send keys(admin.ics)","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1674598472655,"stop":1674598472750},{"name":"$(\"input.mat-input-element\") press enter()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1674598472750,"stop":1674598472903},{"name":"$(\"input.mat-input-element\") send keys(P@ssw0rd)","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1674598472904,"stop":1674598473010},{"name":"$(\"input.mat-input-element\") press enter()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1674598473011,"stop":1674598473060}],"attachments":[],"parameters":[],"start":1674598460659,"stop":1674598473073}
+{
+  "uuid": "c82b711d-e2f4-497c-9ea7-0416c8455b89",
+  "historyId": "c4f74716b1553aa2b793e3935148aebe",
+  "testCaseId": "[engine:junit-jupiter]/[class:com.example.selenideicsdemos.MainPageTest]/[method:login()]",
+  "testCaseName": "login()",
+  "fullName": "com.example.selenideicsdemos.MainPageTest.login",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:com.example.selenideicsdemos.MainPageTest]/[method:login()]"
+    },
+    {
+      "name": "host",
+      "value": "yeahbutstill"
+    },
+    {
+      "name": "thread",
+      "value": "12666@yeahbutstill.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "com.example.selenideicsdemos.MainPageTest"
+    },
+    {
+      "name": "testClass",
+      "value": "com.example.selenideicsdemos.MainPageTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "login"
+    },
+    {
+      "name": "suite",
+      "value": "com.example.selenideicsdemos.MainPageTest"
+    }
+  ],
+  "links": [],
+  "name": "login()",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [
+    {
+      "name": "$(\"open\") https://ics.lps.go.id/#/login",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "$(\"webdriver\") create()",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1674598460759,
+          "stop": 1674598465214
+        }
+      ],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674598460752,
+      "stop": 1674598472570
+    },
+    {
+      "name": "$(\"input.mat-input-element\") send keys(admin.ics)",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674598472655,
+      "stop": 1674598472750
+    },
+    {
+      "name": "$(\"input.mat-input-element\") press enter()",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674598472750,
+      "stop": 1674598472903
+    },
+    {
+      "name": "$(\"input.mat-input-element\") send keys(P@ssw0rd)",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674598472904,
+      "stop": 1674598473010
+    },
+    {
+      "name": "$(\"input.mat-input-element\") press enter()",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674598473011,
+      "stop": 1674598473060
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1674598460659,
+  "stop": 1674598473073
+}

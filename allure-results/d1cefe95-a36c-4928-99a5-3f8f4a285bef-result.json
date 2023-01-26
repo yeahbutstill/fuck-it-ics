@@ -1,0 +1,110 @@
+{
+  "uuid": "d1cefe95-a36c-4928-99a5-3f8f4a285bef",
+  "historyId": "f47efb81293f1d6e48b6f46a9dcedddc",
+  "testCaseId": "[engine:junit-jupiter]/[class:com.example.selenideicsdemos.login.LoginPageTest]/[method:loginSuccess()]",
+  "testCaseName": "loginSuccess()",
+  "fullName": "com.example.selenideicsdemos.login.LoginPageTest.loginSuccess",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:com.example.selenideicsdemos.login.LoginPageTest]/[method:loginSuccess()]"
+    },
+    {
+      "name": "feature",
+      "value": "login"
+    },
+    {
+      "name": "host",
+      "value": "yeahbutstill"
+    },
+    {
+      "name": "thread",
+      "value": "12324@yeahbutstill.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "com.example.selenideicsdemos.login.LoginPageTest"
+    },
+    {
+      "name": "testClass",
+      "value": "com.example.selenideicsdemos.login.LoginPageTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "loginSuccess"
+    },
+    {
+      "name": "suite",
+      "value": "com.example.selenideicsdemos.login.LoginPageTest"
+    }
+  ],
+  "links": [],
+  "name": "loginSuccess()",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [
+    {
+      "name": "$(\"open\") https://ics.lps.go.id/#/login",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674691601892,
+      "stop": 1674691608092
+    },
+    {
+      "name": "$(\"input.mat-input-element\") send keys(admin.ics)",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674691608093,
+      "stop": 1674691608171
+    },
+    {
+      "name": "$(\"button.mat-focus-indicator\") press enter()",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674691608172,
+      "stop": 1674691608252
+    },
+    {
+      "name": "$(\"input.mat-input-element\") send keys(P@ssw0rd)",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674691608252,
+      "stop": 1674691608624
+    },
+    {
+      "name": "$(\"button.mat-focus-indicator\") press enter()",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674691608625,
+      "stop": 1674691608739
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1674691601890,
+  "stop": 1674691608740
+}

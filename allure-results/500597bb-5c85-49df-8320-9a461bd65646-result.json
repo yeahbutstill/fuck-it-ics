@@ -1,0 +1,91 @@
+{
+  "uuid": "500597bb-5c85-49df-8320-9a461bd65646",
+  "historyId": "90dbf641d247fc1d714ca8d7ae5be114",
+  "testCaseId": "[engine:junit-jupiter]/[class:com.example.selenideicsdemos.tbp.TbpPageTest]/[method:loginFailed()]",
+  "testCaseName": "loginFailed()",
+  "fullName": "com.example.selenideicsdemos.tbp.TbpPageTest.loginFailed",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:com.example.selenideicsdemos.tbp.TbpPageTest]/[method:loginFailed()]"
+    },
+    {
+      "name": "feature",
+      "value": "login"
+    },
+    {
+      "name": "host",
+      "value": "yeahbutstill"
+    },
+    {
+      "name": "thread",
+      "value": "7539@yeahbutstill.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "com.example.selenideicsdemos.tbp.TbpPageTest"
+    },
+    {
+      "name": "testClass",
+      "value": "com.example.selenideicsdemos.tbp.TbpPageTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "loginFailed"
+    },
+    {
+      "name": "suite",
+      "value": "com.example.selenideicsdemos.tbp.TbpPageTest"
+    }
+  ],
+  "links": [],
+  "name": "loginFailed()",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [
+    {
+      "name": "$(\"open\") https://ics.lps.go.id/#/login",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "$(\"webdriver\") create()",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1674695807030,
+          "stop": 1674695810324
+        }
+      ],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674695807019,
+      "stop": 1674695818046
+    },
+    {
+      "name": "$(\"button.mat-focus-indicator\") press enter()",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674695818051,
+      "stop": 1674695818223
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1674695807006,
+  "stop": 1674695818239
+}

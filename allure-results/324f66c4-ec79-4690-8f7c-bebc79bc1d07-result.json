@@ -1,1 +1,55 @@
-{"uuid":"324f66c4-ec79-4690-8f7c-bebc79bc1d07","historyId":"c4f74716b1553aa2b793e3935148aebe","testCaseId":"[engine:junit-jupiter]/[class:com.example.selenideicsdemos.MainPageTest]/[method:login()]","testCaseName":"login()","fullName":"com.example.selenideicsdemos.MainPageTest.login","labels":[{"name":"junit.platform.uniqueid","value":"[engine:junit-jupiter]/[class:com.example.selenideicsdemos.MainPageTest]/[method:login()]"},{"name":"host","value":"yeahbutstill"},{"name":"thread","value":"8390@yeahbutstill.main(1)"},{"name":"framework","value":"junit-platform"},{"name":"language","value":"java"},{"name":"package","value":"com.example.selenideicsdemos.MainPageTest"},{"name":"testClass","value":"com.example.selenideicsdemos.MainPageTest"},{"name":"testMethod","value":"login"},{"name":"suite","value":"com.example.selenideicsdemos.MainPageTest"}],"links":[],"name":"login()","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1674596575220,"stop":1674596596928}
+{
+  "uuid": "324f66c4-ec79-4690-8f7c-bebc79bc1d07",
+  "historyId": "c4f74716b1553aa2b793e3935148aebe",
+  "testCaseId": "[engine:junit-jupiter]/[class:com.example.selenideicsdemos.MainPageTest]/[method:login()]",
+  "testCaseName": "login()",
+  "fullName": "com.example.selenideicsdemos.MainPageTest.login",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:com.example.selenideicsdemos.MainPageTest]/[method:login()]"
+    },
+    {
+      "name": "host",
+      "value": "yeahbutstill"
+    },
+    {
+      "name": "thread",
+      "value": "8390@yeahbutstill.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "com.example.selenideicsdemos.MainPageTest"
+    },
+    {
+      "name": "testClass",
+      "value": "com.example.selenideicsdemos.MainPageTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "login"
+    },
+    {
+      "name": "suite",
+      "value": "com.example.selenideicsdemos.MainPageTest"
+    }
+  ],
+  "links": [],
+  "name": "login()",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1674596575220,
+  "stop": 1674596596928
+}
